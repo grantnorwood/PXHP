@@ -1,0 +1,32 @@
+= PXHP (Pseudo-XHP)
+
+  +----------------------------------------------------------------------+
+  | PXHP (Pseudo-XHP)                                                    |
+  | https://github.com/grantnorwood/pxhp                                 |
+  +----------------------------------------------------------------------+
+  | Copyright (c) 2011 Grant K Norwood. (http://grantnorwood.com)        |
+  +----------------------------------------------------------------------+
+  |                                                                      |
+  | PXHP is a PHP-only library for building and rendering UI widgets,    |
+  | but without the XML stuff that XHP uses.  This makes it easier to    |
+  | install and use without building/making/installing any extensions,   |
+  | even in shared hosting environments.  Also, XHP isn't available on   |
+  | Mac or PC quite yet, so this will have to do for those of us who     |
+  | don't do all of our development in a Linux environment.  Facebook    |
+  | did an amazing job with XHP, it's just not currently available       |
+  | to everybody!                                                        |
+  |                                                                      |
+  | The PXHP project is based on the open-source XHP project by          |
+  | Facebook, located at https://github.com/facebook/xhp.                |
+  |                                                                      |
+  | XHP is Copyright (c) 2009 - 2010 Facebook, Inc.                      |
+  | (http://www.facebook.com)                                            |
+  |                                                                      |
+  | This source file is subject to version 3.01 of the PHP license,      |
+  | that is bundled with this package in the file LICENSE.PHP, and is    |
+  | available through the world-wide-web at the following url:           |
+  | http://www.php.net/license/3_01.txt                                  |
+  | If you did not receive a copy of the PHP license and are unable to   |
+  | obtain it through the world-wide-web, please send a note to          |
+  | license@php.net so we can mail you a copy immediately.               |
+  +----------------------------------------------------------------------+
