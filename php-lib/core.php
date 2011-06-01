@@ -104,7 +104,7 @@ class PXHP_ComposableElement extends PXHP_Base {
 	 * @param $attributes    map of attributes to values
 	 * @param $children      list of children
 	 */
-	final public function __construct($attributes, $children) {
+	final public function __construct($attributes = array(), $children = array()) {
 		
 		//TODO: Validate attributes.
 		// if ($attributes) {
